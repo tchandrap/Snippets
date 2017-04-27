@@ -124,10 +124,10 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/iServer/snippets/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#0#43#0" expanded="true" />
+                <element signature="e#0#35#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -157,9 +157,9 @@
         <option value="$PROJECT_DIR$/iServer/snippets/migrations/permissions.py" />
         <option value="$PROJECT_DIR$/iServer/snippets/permissions.py" />
         <option value="$PROJECT_DIR$/iServer/iServer/urls.py" />
-        <option value="$PROJECT_DIR$/iServer/snippets/urls.py" />
         <option value="$PROJECT_DIR$/iServer/snippets/models.py" />
         <option value="$PROJECT_DIR$/iServer/snippets/serializers.py" />
+        <option value="$PROJECT_DIR$/iServer/snippets/urls.py" />
         <option value="$PROJECT_DIR$/iServer/iServer/settings.py" />
         <option value="$PROJECT_DIR$/iServer/snippets/views.py" />
       </list>
@@ -652,8 +652,13 @@
           <line>15</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/iServer/snippets/views.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -663,26 +668,26 @@
         <state relative-caret-position="459">
           <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
           <folding>
-            <marker date="1493242841953" expanded="true" signature="0:307" ph="&quot;&quot;&quot;Django settings for iServer project....&quot;&quot;&quot;" />
-            <marker date="1493242841953" expanded="true" signature="465:668" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="896:1141" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="1158:1555" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="1602:2071" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="1608:2068" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="1745:2061" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="1781:2050" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="2122:2197" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="2212:2338" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="2229:2336" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="2342:2443" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="2473:2867" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="2479:2576" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="2584:2671" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="2679:2767" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="2775:2864" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="2871:2947" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="3043:3144" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="3218:3238" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="0:307" ph="&quot;&quot;&quot;Django settings for iServer project....&quot;&quot;&quot;" />
+            <marker date="1493277980817" expanded="true" signature="465:668" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="896:1141" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="1158:1555" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="1602:2071" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="1608:2068" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="1745:2061" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="1781:2050" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="2122:2197" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="2212:2338" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="2229:2336" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="2342:2443" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="2473:2867" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="2479:2576" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="2584:2671" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="2679:2767" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="2775:2864" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="2871:2947" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="3043:3144" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="3218:3325" ph="..." />
           </folding>
         </state>
       </provider>
@@ -692,7 +697,7 @@
         <state relative-caret-position="102">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
-            <element signature="e#0#43#0" expanded="true" />
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -702,7 +707,7 @@
         <state relative-caret-position="799">
           <caret line="47" column="37" lean-forward="true" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
           <folding>
-            <element signature="e#0#43#0" expanded="true" />
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -848,40 +853,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/env/Lib/site-packages/rest_framework/mixins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-          <folding>
-            <marker date="1492944887780" expanded="true" signature="0:177" ph="&quot;&quot;&quot;Basic building blocks for generic class based views....&quot;&quot;&quot;" />
-            <marker date="1492944887780" expanded="false" signature="178:346" ph="import ..." />
-            <marker date="1492944887780" expanded="true" signature="380:1024" ph="..." />
-            <marker date="1492944887780" expanded="true" signature="385:425" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1492944887780" expanded="true" signature="473:773" ph="..." />
-            <marker date="1492944887780" expanded="true" signature="816:842" ph="..." />
-            <marker date="1492944887780" expanded="true" signature="884:1024" ph="..." />
-            <marker date="1492944887780" expanded="true" signature="1056:1508" ph="..." />
-            <marker date="1492944887780" expanded="true" signature="1061:1093" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1492944887780" expanded="true" signature="1139:1508" ph="..." />
-            <marker date="1492944887780" expanded="true" signature="1278:1404" ph="..." />
-            <marker date="1492944887780" expanded="true" signature="1544:1770" ph="..." />
-            <marker date="1492944887780" expanded="true" signature="1549:1591" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1492944887780" expanded="true" signature="1641:1770" ph="..." />
-            <marker date="1492944887780" expanded="true" signature="1804:2679" ph="..." />
-            <marker date="1492944887780" expanded="true" signature="1809:1849" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1492944887780" expanded="true" signature="1897:2467" ph="..." />
-            <marker date="1492944887780" expanded="true" signature="2224:2425" ph="..." />
-            <marker date="1492944887780" expanded="true" signature="2237:2373" ph="..." />
-            <marker date="1492944887780" expanded="true" signature="2510:2536" ph="..." />
-            <marker date="1492944887780" expanded="true" signature="2593:2679" ph="..." />
-            <marker date="1492944887780" expanded="true" signature="2714:3012" ph="..." />
-            <marker date="1492944887780" expanded="true" signature="2719:2760" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1492944887780" expanded="true" signature="2809:2944" ph="..." />
-            <marker date="1492944887780" expanded="true" signature="2986:3012" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/env/Lib/site-packages/rest_framework/permissions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -938,6 +909,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="96" column="8" lean-forward="false" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
+          <folding>
+            <marker date="1492943831248" expanded="true" signature="0:109" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1492943831248" expanded="false" signature="110:608" ph="import ..." />
+            <marker date="1492943831248" expanded="true" signature="649:1711" ph="..." />
+            <marker date="1492943831248" expanded="true" signature="704:1053" ph="..." />
+            <marker date="1492943831248" expanded="true" signature="713:802" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1492943831248" expanded="true" signature="1144:1293" ph="'...'" />
+            <marker date="1492943831248" expanded="true" signature="1295:1601" ph="..." />
+            <marker date="1492943831248" expanded="true" signature="1304:1545" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1492943831248" expanded="true" signature="1646:1711" ph="..." />
+            <marker date="1492943831248" expanded="true" signature="1780:4972" ph="..." />
+            <marker date="1492943831248" expanded="true" signature="1986:2010" ph="..." />
+            <marker date="1492943831248" expanded="true" signature="2039:2145" ph="..." />
+            <marker date="1492943831248" expanded="true" signature="2187:2426" ph="..." />
+            <marker date="1492943831248" expanded="true" signature="2260:2396" ph="..." />
+            <marker date="1492943831248" expanded="true" signature="2450:2485" ph="..." />
+            <marker date="1492943831248" expanded="true" signature="2507:2596" ph="..." />
+            <marker date="1492943831248" expanded="true" signature="2634:2838" ph="..." />
+            <marker date="1492943831248" expanded="true" signature="2733:2838" ph="..." />
+            <marker date="1492943831248" expanded="true" signature="2866:2904" ph="..." />
+            <marker date="1492943831248" expanded="true" signature="2947:3097" ph="..." />
+            <marker date="1492943831248" expanded="true" signature="2956:3068" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1492943831248" expanded="true" signature="3144:3303" ph="..." />
+            <marker date="1492943831248" expanded="true" signature="3153:3275" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1492943831248" expanded="true" signature="3346:3436" ph="..." />
+            <marker date="1492943831248" expanded="true" signature="3481:3930" ph="..." />
+            <marker date="1492943831248" expanded="true" signature="3490:3622" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1492943831248" expanded="true" signature="3656:3863" ph="..." />
+            <marker date="1492943831248" expanded="true" signature="3968:4066" ph="..." />
+            <marker date="1492943831248" expanded="true" signature="4102:4151" ph="..." />
+            <marker date="1492943831248" expanded="true" signature="4181:4287" ph="..." />
+            <marker date="1492943831248" expanded="true" signature="4318:4426" ph="..." />
+            <marker date="1492943831248" expanded="true" signature="4464:4685" ph="..." />
+            <marker date="1492943831248" expanded="true" signature="4473:4534" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1492943831248" expanded="true" signature="4738:4844" ph="..." />
+            <marker date="1492943831248" expanded="true" signature="4905:4972" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2371,30 +2379,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/iServer/iServer/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <marker date="1493242501756" expanded="true" signature="0:640" ph="&quot;&quot;&quot;iServer URL Configuration...&quot;&quot;&quot;" />
-            <marker date="1493242501756" expanded="true" signature="641:715" ph="import ..." />
-            <marker date="1493242501756" expanded="true" signature="732:812" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iServer/snippets/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding>
-            <marker date="1493243319219" expanded="true" signature="0:130" ph="import ..." />
-            <marker date="1493243319219" expanded="true" signature="170:719" ph="..." />
-            <marker date="1493243319219" expanded="true" signature="786:902" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/iServer/snippets/tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2448,35 +2432,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/iServer/iServer/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1299">
-          <caret line="15" column="49" lean-forward="false" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
-          <folding>
-            <marker date="1493242841953" expanded="true" signature="0:307" ph="&quot;&quot;&quot;Django settings for iServer project....&quot;&quot;&quot;" />
-            <marker date="1493242841953" expanded="true" signature="465:668" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="896:1141" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="1158:1555" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="1602:2071" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="1608:2068" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="1745:2061" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="1781:2050" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="2122:2197" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="2212:2338" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="2229:2336" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="2342:2443" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="2473:2867" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="2479:2576" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="2584:2671" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="2679:2767" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="2775:2864" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="2871:2947" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="3043:3144" ph="..." />
-            <marker date="1493242841953" expanded="true" signature="3218:3238" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/iServer/snippets/permissions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -2490,12 +2445,99 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/env/Lib/site-packages/rest_framework/mixins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding>
+            <marker date="1492944887780" expanded="true" signature="0:177" ph="&quot;&quot;&quot;Basic building blocks for generic class based views....&quot;&quot;&quot;" />
+            <marker date="1492944887780" expanded="false" signature="178:346" ph="import ..." />
+            <marker date="1492944887780" expanded="false" signature="380:1024" ph="..." />
+            <marker date="1492944887780" expanded="true" signature="385:425" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1492944887780" expanded="false" signature="473:773" ph="..." />
+            <marker date="1492944887780" expanded="true" signature="816:842" ph="..." />
+            <marker date="1492944887780" expanded="true" signature="884:1024" ph="..." />
+            <marker date="1492944887780" expanded="true" signature="1056:1508" ph="..." />
+            <marker date="1492944887780" expanded="true" signature="1061:1093" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1492944887780" expanded="true" signature="1139:1508" ph="..." />
+            <marker date="1492944887780" expanded="true" signature="1278:1404" ph="..." />
+            <marker date="1492944887780" expanded="true" signature="1544:1770" ph="..." />
+            <marker date="1492944887780" expanded="true" signature="1549:1591" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1492944887780" expanded="true" signature="1641:1770" ph="..." />
+            <marker date="1492944887780" expanded="true" signature="1804:2679" ph="..." />
+            <marker date="1492944887780" expanded="true" signature="1809:1849" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1492944887780" expanded="true" signature="1897:2467" ph="..." />
+            <marker date="1492944887780" expanded="true" signature="2224:2425" ph="..." />
+            <marker date="1492944887780" expanded="true" signature="2237:2373" ph="..." />
+            <marker date="1492944887780" expanded="true" signature="2510:2536" ph="..." />
+            <marker date="1492944887780" expanded="true" signature="2593:2679" ph="..." />
+            <marker date="1492944887780" expanded="true" signature="2714:3012" ph="..." />
+            <marker date="1492944887780" expanded="true" signature="2719:2760" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1492944887780" expanded="true" signature="2809:2944" ph="..." />
+            <marker date="1492944887780" expanded="true" signature="2986:3012" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iServer/iServer/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <marker date="1493242501756" expanded="true" signature="0:640" ph="&quot;&quot;&quot;iServer URL Configuration...&quot;&quot;&quot;" />
+            <marker date="1493242501756" expanded="true" signature="641:715" ph="import ..." />
+            <marker date="1493242501756" expanded="true" signature="732:812" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iServer/iServer/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="101" column="1" lean-forward="true" selection-start-line="101" selection-start-column="1" selection-end-line="101" selection-end-column="1" />
+          <folding>
+            <marker date="1493277980817" expanded="true" signature="0:307" ph="&quot;&quot;&quot;Django settings for iServer project....&quot;&quot;&quot;" />
+            <marker date="1493277980817" expanded="true" signature="465:668" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="896:1141" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="1158:1555" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="1602:2071" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="1608:2068" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="1745:2061" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="1781:2050" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="2122:2197" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="2212:2338" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="2229:2336" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="2342:2443" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="2473:2867" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="2479:2576" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="2584:2671" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="2679:2767" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="2775:2864" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="2871:2947" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="3043:3144" ph="..." />
+            <marker date="1493277980817" expanded="true" signature="3218:3325" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iServer/snippets/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <marker date="1493271602209" expanded="true" signature="0:145" ph="import ..." />
+            <marker date="1493271602209" expanded="true" signature="311:438" ph="..." />
+            <marker date="1493271602209" expanded="true" signature="454:575" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/iServer/snippets/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#43#0" expanded="true" />
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
